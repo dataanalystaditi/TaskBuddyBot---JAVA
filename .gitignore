@@ -1,0 +1,10 @@
+# Eclipse / Java
+/bin/
+/.settings/
+.classpath
+.project
+*.log
+*.class
+*.jar
+*.war
+.DS_Store
